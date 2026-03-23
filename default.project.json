@@ -10,6 +10,9 @@
     },
     "ServerStorage": {
       "$path": "src/ServerStorage"
+    },
+    "StarterGui": {
+      "$path": "src/StarterPlayerScripts"
     }
   }
 }
